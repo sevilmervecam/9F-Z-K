@@ -24,8 +24,8 @@ Today I'm going to give you my recipe for making delicious breads. Hope you enjo
 
 PORTION        | CALORIE AMOUNT
 -------------- | ------
-FOR HOLE BREAD | x
-FOR 100 GRAMS  | y
+FOR 1 SLICE | 64
+FOR 100 GRAMS  | 265
 
 
 
