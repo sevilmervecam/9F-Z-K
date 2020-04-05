@@ -17,8 +17,8 @@ Today I'm going to give you my recipe for making delicious breads. Hope you enjo
 * An hour later take your dough and put it on to floured tray (You can sprinkle a pinch of flour on your dough.) and put it into preheated oven at 180 degree for 45 minutes.
 * After your bread baked put a towel etc. on to it wait for 20 minutes.
 * Your bread is ready to serve.
-![GitHub Logo](20200404_213040[1].jpg)
-Format: ![Alt Text](url)()
+!(20200404_213040[1].jpg)
+
 
 
 
