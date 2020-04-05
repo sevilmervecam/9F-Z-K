@@ -19,6 +19,7 @@ Today I'm going to give you my recipe for making delicious breads. Hope you enjo
 * Your bread is ready to serve.
 
 FOR HOLE BREAD | x
+-------------- | ------
 FOR 100 GRAMS  | y
 
 
