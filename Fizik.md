@@ -18,8 +18,8 @@ Today I'm going to give you my recipe for making delicious breads. Hope you enjo
 * After your bread baked put a towel etc. on to it wait for 20 minutes.
 * Your bread is ready to serve.
 
-FOR HOLE BREAD |
-FOR 100 GRAMS  |
+FOR HOLE BREAD | x
+FOR 100 GRAMS  | y
 
 
 
