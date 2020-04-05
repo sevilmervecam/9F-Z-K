@@ -14,7 +14,10 @@ Today I'm going to give you my recipe for making delicious breads. Hope you enjo
 * Now it's time for you to start kneading your dough. (If it's not solid enough after adding water you can put more flour while your kneading.)
 * After kneading put a towel etc. on your dough and leave it in a warm place and wait for like an hour.(for fermentation)
 * While you're waiting take a middle size tray and spread flour on to it's base.
-*
+* An hour later take your dough and put it on to floured tray (You can sprinkle a pinch of flour on your dough.) and put it into preheated oven at 180 degree for 45 minutes.
+* After your bread baked put a towel etc. on to it wait for 20 minutes.
+* Your bread is ready to serve.
+
 
 
 
