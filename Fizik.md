@@ -32,7 +32,7 @@ FOR 100 GRAMS  | y
 KİŞİ | YAŞ | KİLO | BOY | VUCÜT KÜTLE İNDEKSİ | SONUÇ |
 -----|-----|------|-----|---------------------|-------|
 Annem| 43  | 75   | 1.68| 26.6                |fazla kilolu|
-Babam| 45  | 85   | 1.70| 27.7                |fazla kilolu|
+Babam| 45  | 80   | 1.70| 27.7                |fazla kilolu|
 Kardeşim| 5| 23   | 1.10| 19                  |normal      |
 
 
